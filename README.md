@@ -4,7 +4,7 @@ Aplicación web desarrollada con Next.js 14+ y TypeScript que consume la API pú
 
 ## 🚀 Demo en Vivo
 
-[Ver Demo](https://tu-proyecto.vercel.app) _(Reemplaza con tu link de Vercel)_
+[Ver Demo]()
 
 ## 📋 Características
 
@@ -33,8 +33,8 @@ Aplicación web desarrollada con Next.js 14+ y TypeScript que consume la API pú
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/books-list.git
-cd books-list
+git clone https://github.com/alvarolinares-dev/consumo_api_nxt.git
+cd books-app
 ```
 
 2. Instalar dependencias:
@@ -133,7 +133,7 @@ vercel
 
 **Tu Nombre**
 - GitHub: [@alvarolinares-dev](https://github.com/alvarolinares-dev)
-- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/alvaro-linares-a9459a224/)
+- LinkedIn: [Perfil de Linkdn](https://www.linkedin.com/in/alvaro-linares-a9459a224/)
 
 
 ---
